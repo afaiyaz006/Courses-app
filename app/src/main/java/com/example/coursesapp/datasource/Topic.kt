@@ -7,7 +7,4 @@ data class Topic(
     @StringRes val titleStringId: Int,
     val associatedCourses:Int,
     @DrawableRes val topicImage: Int,
-
-
-
 )
